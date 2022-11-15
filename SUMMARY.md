@@ -44,10 +44,6 @@
 * [LCOE](guang-fu-xi-tong-zhong-chang-jian-de-suo-xie-suo-dai-biao-de-han-yi/lcoe.md)
 * [SVG](guang-fu-xi-tong-zhong-chang-jian-de-suo-xie-suo-dai-biao-de-han-yi/svg.md)
 
-***
-
-* [Page 1](page-1.md)
-
 ## 光伏系统中一些易混淆的单位
 
 * [光伏系统中一些易混淆的单位](guang-fu-xi-tong-zhong-yi-xie-yi-hun-xiao-de-dan-wei/guang-fu-xi-tong-zhong-yi-xie-yi-hun-xiao-de-dan-wei.md)
